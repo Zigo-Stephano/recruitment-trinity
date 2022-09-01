@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FormField.Outlined" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="android:height">42dp</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxCornerRadiusBottomEnd">5dp</item>
+        <item name="boxCornerRadiusBottomStart">5dp</item>
+        <item name="boxCornerRadiusTopEnd">5dp</item>
+        <item name="boxCornerRadiusTopStart">5dp</item>
+        <item name="boxStrokeColor">@color/color_text_fieldbox</item>
+        <item name="boxStrokeWidth">1dp</item>
+    </style>
+
+</resources>
